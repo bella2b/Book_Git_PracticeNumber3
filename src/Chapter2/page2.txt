@@ -1,2 +1,3 @@
 Hi Git it is me again lol
 practice will lead me to perfection
+editor: yeah Java is cool
